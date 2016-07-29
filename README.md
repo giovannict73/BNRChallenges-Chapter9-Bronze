@@ -1,6 +1,6 @@
 # BNRChallenges-Chapter9-Bronze
 
-This is my implementation of the SILVER CHALLENGE on chapter 9 proposed by following book:  
+This is my implementation of the BRONZE CHALLENGE on chapter 9 proposed by following book:  
 
 iOS Programming: The Big Nerd Ranch Guide (5th Edition) by Christian Keur and Aaron Hillegass
 
